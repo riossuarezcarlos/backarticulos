@@ -1,0 +1,17 @@
+1.- Instalar express
+npm i --save express
+
+2.- Instalar body-parser
+npm i --save doby-parser
+
+3.- Instalar mongoose
+npm i --save mongoose
+
+4.- Instalar connect-multiparty
+npm i --save connect-multiparty
+
+5.- Instalar validator
+npm i --save validator
+
+6.- instalar nodemon (solo desarrollo)
+npm i --save-dev nodemon
